@@ -2,8 +2,6 @@
 
 The fifth session of the LSSTC DSFP focuses on image processing.
 
-**This schedule is preliminary**
-
 # Schedule
 
 ## Day 1 — An Introduction to Optical Imaging
@@ -16,7 +14,7 @@ Monday, Jan 22, 2018
  * 10:30 AM - 11:00 AM  o  Break
  * 11:00 AM - 12:00 PM  o  Photons != Science II; A. Miller [:octocat:](https://github.com/adamamiller)
  * 12:00 PM - 01:30 PM  o  LUNCH
- * 01:30 PM - 02:30 PM  o  Noise in Optical Astronomical Detectors; R. Lupton [:octocat:](https://github.com/RobertLuptonTheGood)
+ * 01:30 PM - 02:30 PM  o  The imperfection of Optical/NIR Astronomical Data; R. Lupton [:octocat:](https://github.com/RobertLuptonTheGood)
  * 02:30 PM - 04:00 PM  o  Problem — detector noise; R. Lupton [:octocat:](https://github.com/RobertLuptonTheGood) 
  * 04:00 PM - 04:30 PM  o  Break
  * 04:30 PM - 06:00 PM  o  Image Reduction in Python; E. Tollerud [:octocat:](https://github.com/eteq)
@@ -29,6 +27,7 @@ Tuesday, Jan 23, 2018
  * 10:00 AM - 10:30 AM  o  Break
  * 10:30 AM - 12:00 PM  o  Problem — point sources; D. Fohring  [:octocat:](https://github.com/fohring) 
  * 12:00 PM - 01:30 PM  o  LUNCH
+ * 12:30 PM - 01:30 PM  o  [optional] Preparing HST Images for Outreach; Z. Levay & J. Depasquale
  * 01:30 PM - 03:30 PM  o  Introduction to Photometry II — Galaxies; M. Alpaslan [:octocat:](https://github.com/malpaslan)
  * 03:30 PM - 04:00 PM  o  Break
  * 04:00 PM - 06:00 PM  o  An Introduction to the R Computing Language; M. Alpalsan [:octocat:](https://github.com/malpaslan)
@@ -42,6 +41,7 @@ Wednesday, Jan 24, 2018
  * 10:00 AM - 10:30 AM  o  Break
  * 10:30 AM - 12:00 PM  o  Problem — Astrometry; D. Fohring  [:octocat:](https://github.com/fohring)
  * 12:30 PM - ??:?? PM  o  BREAK
+ * 03:30 PM - 04:30 PM  o  [optional] STScI colloquium — Kirsten Hall (JHU) *Infrared Galaxies Clustered around Quasars across Cosmic Time* & Giovanni Bruno (STScI) *Transiting Exoplanets with HST: Atmospheres, Clouds and Starspots*
   
 ## Day 4 — Depth, Subtraction, and Follow-up
 
@@ -51,7 +51,7 @@ Thursday, Jan 25, 2018
  * 10:00 AM - 10:30 AM  o  Break
  * 10:30 AM - 12:00 PM  o  Problem — image subtraction; G. Narayan [:octocat:](https://github.com/gnarayan)
  * 12:00 PM - 01:30 PM  o  LUNCH
- * 01:30 PM - 03:30 PM  o  Spectroscopy (Really Just Photometry in 1D); R. Lupton [:octocat:](https://github.com/RobertLuptonTheGood)
+ * 01:30 PM - 03:30 PM  o  Spectroscopy (Really Just Photometry); R. Lupton [:octocat:](https://github.com/RobertLuptonTheGood)
  * 03:30 PM - 04:00 PM  o  Break
  * 04:00 PM - 06:00 PM  o  Visualizing astronomical images; L. Walkowicz [:octocat:](https://github.com/lmwalkowicz), A. Miller [:octocat:](https://github.com/adamamiller), and J. Peek [:octocat:](https://github.com/jegpeek)
 
